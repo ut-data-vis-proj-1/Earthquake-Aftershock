@@ -1,0 +1,4 @@
+#File to Ignore
+
+#Ignore all ipynb checkpoints
+ipynb_checkpoints
