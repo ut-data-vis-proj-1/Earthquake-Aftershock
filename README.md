@@ -1,1 +1,1 @@
-# Earthquake_Aftershock
+# Earthquake Aftershock
